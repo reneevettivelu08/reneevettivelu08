@@ -14,8 +14,8 @@ With a background in engineering and hands-on experience as a Product Manager, I
 
 - Home Financing Technology - mortgage pre-qualifications, appraisals, & renewals 
 - Document Classification - using OCR & NLP models for accurate tagging
-- Commercial Banking Analytics - 
-- Renewal and servicing experiences  
+- Commercial Banking Analytics - developping PowerBI & Adobe Analytics for 
+- Sponsor Finance & Asset Management - conceptualized & developed tools for end-to-end Sponsor Finance & Asset Management processes
 
 I care deeply about:
 - ✨ Clean, intuitive user experiences  
