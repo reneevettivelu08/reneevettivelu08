@@ -45,8 +45,6 @@ I care deeply about:
 
 ## 🚀 Featured Projects
 
----
-
 ### 📄 CANSIMPLAN
 > Simplified document collection for customers and internal teams
 
