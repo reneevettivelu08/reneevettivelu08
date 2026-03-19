@@ -65,12 +65,6 @@ I care deeply about:
 
 ---
 
-## 📈 GitHub Stats
-
-![Renee's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
----
-
 ## 🔥 What I’m Currently Working On
 
 - Building and deploying my personal portfolio (React + Express)  
